@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Data Scientist at IOT lab FCU.
+- 👋 Hi, I’m Data Scientist(Phd Student) at FCU.
 - 👀 I’m interested in NLP (particularly transformer models such as BERT),music composition in AI,Computer Vision, deep learning.
 - 🌱 I’m currently doing reserch on NLP (particularly transformer models such as BERT),deep learning.  
 - 💞️ I’m looking to collaborate on NLP,Computer Vision, deep learning,music composition in AI.
