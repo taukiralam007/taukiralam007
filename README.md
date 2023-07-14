@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Phd Student at FCU.
-- 👀 I’m interested in NLP (particularly transformer models such as BERT),music composition in AI,Computer Vision, deep learning.
-- 🌱 I’m currently doing reserch on NLP (particularly transformer models such as BERT),deep learning.  
-- 💞️ I’m looking to collaborate on NLP,Computer Vision, deep learning,music composition in AI.
+- 👀 I’m interested in Image processing particularly AI,Computer Vision, deep learning.  
+- 💞️ I’m looking to collaborate on Image processing,Computer Vision, deep learning.
 - 📫 How to reach me taukir.alam007@gmail.com 
 
 <!---
