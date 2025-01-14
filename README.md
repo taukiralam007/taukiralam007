@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phd Student at FCU.
+- 👋 Hi, love do coding ....
 - 👀 I’m interested in Image processing particularly AI,Computer Vision, deep learning.  
 - 💞️ I’m looking to collaborate on Image processing,Computer Vision, deep learning.
 - 📫 How to reach me taukir.alam007@gmail.com 
